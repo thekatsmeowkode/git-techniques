@@ -1,0 +1,2 @@
+# git-techniques
+Odin project
